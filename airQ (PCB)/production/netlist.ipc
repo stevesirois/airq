@@ -1,0 +1,67 @@
+P  JOB   airQ                                                                   
+P  CODE  00                                                                     
+P  UNITS CUST 0                                                                 
+P  arrayDim   N                                                                 
+P  VER   IPC-D-356A                                                             
+P  IMAGE PRIMARY                                                                
+P  NNAMEM0000 Net-(GND1-Pin_1)                                                  
+P  NNAMEM0001 Net-(GND1-Pin_2)                                                  
+P  NNAMEM0002 Net-(GND1-Pin_3)                                                  
+P  NNAMEM0003 Net-(LeftRow1-Pin_3)                                              
+P  NNAMEM0004 Net-(LeftRow1-Pin_5)                                              
+P  NNAMEM0005 Net-(LeftRow1-Pin_6)                                              
+P  NNAMEM0006 Net-(PWD1-Pin_2)                                                  
+P  NNAMEM0007 Net-(PWD1-Pin_3)                                                  
+P  NNAMEM0008 Net-(RightRow1-Pin_8)                                             
+P  NNAMEM0009 Net-(RightRow1-Pin_9)                                             
+P  NNAMEM000A Net-(SCL1-Pin_2)                                                  
+P  NNAMEM000B Net-(SDA1-Pin_2)                                                  
+P  NNAMEM000C unconnected-(LeftRow1-Pin_1-Pad1)                                 
+P  NNAMEM000D unconnected-(LeftRow1-Pin_4-Pad4)                                 
+P  NNAMEM000E unconnected-(LeftRow1-Pin_7-Pad7)                                 
+P  NNAMEM000F unconnected-(LeftRow1-Pin_8-Pad8)                                 
+P  NNAMEM000G unconnected-(LeftRow1-Pin_9-Pad9)                                 
+P  NNAMEM000H unconnected-(RightRow1-Pin_1-Pad1)                                
+P  NNAMEM000I unconnected-(RightRow1-Pin_4-Pad4)                                
+P  NNAMEM000J unconnected-(RightRow1-Pin_5-Pad5)                                
+P  NNAMEM000K unconnected-(RightRow1-Pin_6-Pad6)                                
+P  NNAMEM000L unconnected-(RightRow1-Pin_7-Pad7)                                
+P  NNAMEM000M unconnected-(Sensor1-Pin_5-Pad5)                                  
+P  NNAMEM000N unconnected-(Sensor1-Pin_6-Pad6)                                  
+317M0000            GND   -1    D0394PA00X+023228Y-030709X0669Y0669R000 S0      
+317M0000            LeftRo-2    D0394PA00X+021457Y-021472X0669Y0000R000 S0      
+317M0001            GND   -2    D0394PA00X+023228Y-031709X0669Y0000R000 S0      
+317M0001            Sensor-2    D0394PA00X+022850Y-034646X0669Y0000R270 S0      
+317M0002            GND   -3    D0394PA00X+023228Y-032709X0669Y0000R000 S0      
+317M0002            RightR-2    D0394PA00X+027457Y-021472X0669Y0000R000 S0      
+317M0003            LeftRo-3    D0394PA00X+021457Y-022472X0669Y0000R000 S0      
+317M0003            PWD   -1    D0394PA00X+021260Y-030709X0669Y0669R000 S0      
+317M0004            LeftRo-5    D0394PA00X+021457Y-024472X0669Y0000R000 S0      
+317M0004            SDA   -3    D0394PA00X+025197Y-032709X0669Y0000R000 S0      
+317M0005            LeftRo-6    D0394PA00X+021457Y-025472X0669Y0000R000 S0      
+317M0005            SCL   -3    D0394PA00X+027165Y-032709X0669Y0000R000 S0      
+317M0006            PWD   -2    D0394PA00X+021260Y-031709X0669Y0000R000 S0      
+317M0006            Sensor-1    D0394PA00X+021850Y-034646X0669Y0669R270 S0      
+317M0007            RightR-3    D0394PA00X+027457Y-022472X0669Y0000R000 S0      
+317M0007            PWD   -3    D0394PA00X+021260Y-032709X0669Y0000R000 S0      
+317M0008            RightR-8    D0394PA00X+027457Y-027472X0669Y0000R000 S0      
+317M0008            SDA   -1    D0394PA00X+025197Y-030709X0669Y0669R000 S0      
+317M0009            RightR-9    D0394PA00X+027457Y-028472X0669Y0000R000 S0      
+317M0009            SCL   -1    D0394PA00X+027165Y-030709X0669Y0669R000 S0      
+317M000A            SCL   -2    D0394PA00X+027165Y-031709X0669Y0000R000 S0      
+317M000A            Sensor-4    D0394PA00X+024850Y-034646X0669Y0000R270 S0      
+317M000B            SDA   -2    D0394PA00X+025197Y-031709X0669Y0000R000 S0      
+317M000B            Sensor-3    D0394PA00X+023850Y-034646X0669Y0000R270 S0      
+317M000C            LeftRo-1    D0394PA00X+021457Y-020472X0669Y0669R000 S0      
+317M000D            LeftRo-4    D0394PA00X+021457Y-023472X0669Y0000R000 S0      
+317M000E            LeftRo-7    D0394PA00X+021457Y-026472X0669Y0000R000 S0      
+317M000F            LeftRo-8    D0394PA00X+021457Y-027472X0669Y0000R000 S0      
+317M000G            LeftRo-9    D0394PA00X+021457Y-028472X0669Y0000R000 S0      
+317M000H            RightR-1    D0394PA00X+027457Y-020472X0669Y0669R000 S0      
+317M000I            RightR-4    D0394PA00X+027457Y-023472X0669Y0000R000 S0      
+317M000J            RightR-5    D0394PA00X+027457Y-024472X0669Y0000R000 S0      
+317M000K            RightR-6    D0394PA00X+027457Y-025472X0669Y0000R000 S0      
+317M000L            RightR-7    D0394PA00X+027457Y-026472X0669Y0000R000 S0      
+317M000M            Sensor-5    D0394PA00X+025850Y-034646X0669Y0000R270 S0      
+317M000N            Sensor-6    D0394PA00X+026850Y-034646X0669Y0000R270 S0      
+999                                                                             

@@ -1,0 +1,8 @@
+﻿Designator,Mid X,Mid Y,Rotation,Layer
+GND,59.0,-80.54,0.0,top
+LEFTROW1,54.5,-62.16,0.0,top
+PWD,54.0,-80.54,0.0,top
+RIGHTROW1,69.74,-62.16,0.0,top
+SCL,69.0,-80.54,0.0,top
+SDA,64.0,-80.54,0.0,top
+SENSOR,61.85,-88.0,90.0,top

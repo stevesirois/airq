@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"GND, PWD, SCL, SDA",PinHeader_1x03_P2.54mm_Vertical,4,Conn_01x03_Pin,
+"LEFTROW1, RIGHTROW1",PinHeader_1x09_P2.54mm_Vertical,2,Conn_01x09_Pin,
+SENSOR,PinHeader_1x06_P2.54mm_Vertical,1,Conn_01x06_Pin,

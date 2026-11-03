@@ -1,0 +1,11 @@
+AirQ BOM,,,,
+,,Price (CAD),,
+1,ESP32-C6-Zero (Waveshare mini),14.96,Amazon,https://www.amazon.ca/dp/B0CZKM6HVH
+,or Seeed Studio XIAO ESP32C6,13.95,Universal-Solder,https://www.universal-solder.ca/product/seeed-studio-xiao-esp32c6/
+,,,,
+1,6-PIN JST Cable,9.04,Digikey (1649-SEN5XJUMPER6-PINJSTGHR-06V-SCABLESET-ND),https://www.digikey.ca/en/products/detail/sensirion-ag/SEN5X-JUMPER-6-PIN-JST-GHR-06V-S-CABLE-SET/20507225
+1,Sensirion SEN66,98.20,Digikey (1649-SEN66-SIN-T-ND),https://www.digikey.ca/en/products/detail/sensirion-ag/SEN66-SIN-T/25700945
+1,PCB Board,2.07,JLCPCB,
+1,Enclosure (3D Printed),0.60,,
+,,,,
+,Total,"125,00 $",,

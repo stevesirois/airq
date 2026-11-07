@@ -19,7 +19,7 @@ These values are published to Home Assistant as individual sensor entities over 
 | `airqx.yaml`                         | ESPHome config for the **Seeed Studio XIAO ESP32-C6** board     |
 | `airQ (PCB)/`                        | KiCad carrier/breakout PCB (ESP32-C6 + SEN66 headers)           |
 | `3D-Print/`                          | 3D-printable enclosure (body, cover, TPU gasket) + assembly     |
-| `BOM.ods`                            | Bill of materials spreadsheet                                   |
+| `BOM.ods`, `BOM.csv`                 | Bill of materials spreadsheet                                   |
 | `sensirion-datasheet-SEN6x-V1.0.pdf` | SEN66 sensor datasheet                                          |
 
 ## Hardware

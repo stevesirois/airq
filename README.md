@@ -53,7 +53,7 @@ These values are published to Home Assistant as individual sensor entities over 
 
 ## Home Assistant dashboard for the sensor
 
-To show the dashboard card from the video in Home Assistant, install HACS (Home Assistant Community Store) and add the [Air Quality Card by KadenThomp36](https://github.com/KadenThomp36/Air-Quality-Card). The thresholds follow the WHO 2021 recommendations that this card also uses, so the recommendations on the device's display and the dashboard will stay consistent.
+To show the dashboard card (see picture in photo folder), install HACS (Home Assistant Community Store) and add the [Air Quality Card by KadenThomp36](https://github.com/KadenThomp36/Air-Quality-Card). The thresholds follow the WHO 2021 recommendations that this card also uses, so the recommendations on the device's display and the dashboard will stay consistent.
 
 ## Ordering / manufacturing
 

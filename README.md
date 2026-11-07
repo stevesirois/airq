@@ -51,6 +51,10 @@ These values are published to Home Assistant as individual sensor entities over 
 5. Configure and flash your controler using ESPHome. I put 2 yaml files that show the correct configuration for each board. The important part is the IO pin for the I²C interface vs the PCB board design
 6. Assemble everything and hopefully it should work :-)
 
+## Home Assistant dashboard for the sensor
+
+To show the dashboard card from the video in Home Assistant, install HACS (Home Assistant Community Store) and add the [Air Quality Card by KadenThomp36](https://github.com/KadenThomp36/Air-Quality-Card). The thresholds follow the WHO 2021 recommendations that this card also uses, so the recommendations on the device's display and the dashboard will stay consistent.
+
 ## Ordering / manufacturing
 
 - **PCB:** upload the Gerber/drill files (the zip file) generated from `airQ (PCB)/production/airQ.zip` to [JLCPCB](https://jlcpcb.com/). The `production/` folder contains BOM and placement (CPL) exports for assembly.
